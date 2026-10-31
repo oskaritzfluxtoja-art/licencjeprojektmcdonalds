@@ -1,0 +1,7 @@
+-- icencje
+{
+  "licencje": {
+    "KLIENT-JAN-7Q2X9": { "gra": 1234567890, "kto": "Jan (discord: jan123)" },
+    "KLIENT-ANIA-K4M8D": { "gra": 9876543210, "kto": "Ania" }
+  }
+}
